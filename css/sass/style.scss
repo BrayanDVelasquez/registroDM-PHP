@@ -1,0 +1,22 @@
+@font-face {
+    src: url('../font/Roboto-Regular.ttf');
+    font-family: Roboto;
+}
+
+body {
+    font-family: Roboto;
+}
+
+.text-20 {
+    font-size: 20px;
+}
+
+.zoom {
+    transition: all .3s;
+    transform: scale(1.0);
+
+    &:hover {
+        transform: scale(1.02);
+        box-shadow: 0px 1px 1px 0px #ccc;
+    }
+}
