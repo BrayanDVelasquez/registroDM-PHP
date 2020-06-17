@@ -1,7 +1,7 @@
 # RegistroDM-PHP
 
-Registro de doctores y maestros, pidiendo al usuario ingresar sus datos personales y otros laborales.
-Sin base de datos ni sesiones, solo es un proyecto estatico con PHP (POO).
+Registro para doctores y maestros, pidiendo al usuario ingresar los datos personales y otros laborales de la persona a registrar.
+Sin base de datos ni sesiones - PHP (POO).
 
 Framework CSS -> Bootstrap v4.
 
