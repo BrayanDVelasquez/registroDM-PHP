@@ -7,8 +7,8 @@ Framework CSS -> Bootstrap v4.
 
 ## Vista Previa
 
-![Capture1](img/captures/1jpg)
-![Capture1](img/captures/2jpg)
-![Capture1](img/captures/3jpg)
-![Capture1](img/captures/4jpg)
-![Capture1](img/captures/5jpg)
+![screenshot1](https://raw.githubusercontent.com/BrayanDVelasquez/registroDM-PHP/master/img/screenshots/1.jpg) <br>
+![screenshot2](https://raw.githubusercontent.com/BrayanDVelasquez/registroDM-PHP/master/img/screenshots/2.jpg) <br>
+![screenshot3](https://raw.githubusercontent.com/BrayanDVelasquez/registroDM-PHP/master/img/screenshots/3.jpg) <br>
+![screenshot4](https://raw.githubusercontent.com/BrayanDVelasquez/registroDM-PHP/master/img/screenshots/4.jpg) <br>
+![screenshot5](https://raw.githubusercontent.com/BrayanDVelasquez/registroDM-PHP/master/img/screenshots/5.jpg) <br>
